@@ -1,0 +1,10 @@
+{
+    "require": {
+        "orhanerday/open-ai": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ChatWTF\\": "src/"
+        }
+    }
+}
